@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "877557877561",
+    "project_id": "coffee-order-app-7d71e",
+    "storage_bucket": "coffee-order-app-7d71e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877557877561:android:d2a8d812552a67f3a236e8",
+        "android_client_info": {
+          "package_name": "com.akram.coffeeorderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877557877561-kmq14fuk0sjb9dpb82i0evfuo6b7mdu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxlkoyAxPnbka6DtDwOSTynKwyEK94Jzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877557877561-kmq14fuk0sjb9dpb82i0evfuo6b7mdu4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
